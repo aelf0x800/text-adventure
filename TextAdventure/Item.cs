@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TextAdventure
+{
+    internal enum Item
+    {
+        // Weapons
+        RustyAxe, IronSword, OpalBlade, AmethystDagger, RubyBroadSword, BowAndArrow, Arrow,
+        // Potions
+        HealPotion, StrengthPotion,
+        // Consumables
+        Water, Beer, Bread, Carrot, 
+        // Misc
+        Gravel, Dirt, Stone, String, Stick, Cotton, Gauze, Tape, BunchOfNothing,
+
+        Count
+    }
+}
