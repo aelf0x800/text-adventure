@@ -1,4 +1,4 @@
-# Text Adventure
+# Cavern
 A very simple adventure game where you journey through gemstone mines, fight monsters,<br>
 meet wizard, help people and loot.
 
